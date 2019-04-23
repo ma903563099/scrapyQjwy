@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Pro_py3/.idea/Pro_py2.iml" filepath="$PROJECT_DIR$/../../Pro_py3/.idea/Pro_py2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../juzimi/.idea/juzimi.iml" filepath="$PROJECT_DIR$/../juzimi/.idea/juzimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qcwyjob.iml" filepath="$PROJECT_DIR$/.idea/qcwyjob.iml" />
+    </modules>
+  </component>
+</project>
